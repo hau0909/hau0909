@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi, I'm Hau Nguyen from Viet Nam<br><br>- 👨‍💻  I’m working as an intern software engineer with a focus on Web Development.<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hi, I'm Hau Nguyen from Viet Nam<br><br>- 👨‍💻  I’m working as an intern software engineer with a focus on Web Development.<br></p>
 
 ###
 
