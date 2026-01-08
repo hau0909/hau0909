@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi, I'm Hau Nguyen from Viet Nam<br><br>- 👨‍💻  I’m working as an intern software engineer with a focus on Web Development.<br></p>
+<p align="left">Hi, I'm Hau Nguyen from Viet Nam<br><br>- 👨‍💻  I’m working as an fresher software engineer with a focus on Web Development.<br></p>
 
 ###
 
@@ -91,17 +91,6 @@
 
 ###
 
-<p align="left">_________________________________________________________________________________________</p>
-
-###
-
-<h3 align="left">🙆‍♂️ Personal Interests & 👋 Hobbies</h3>
-
-###
-
-<p align="left">🎶 Music: Passionate about Rap and Pop music, always finding inspiration in beats and lyrics.<br><br>👟 Sports: Enjoy playing ⚽ Football and 🏐 Volleyball to stay active and unwind.</p>
-
-###
 
 <p align="left">_________________________________________________________________________________________</p>
 
@@ -165,12 +154,3 @@
 
 ###
 
-<p align="left">🔥STATS</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hau0909&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
