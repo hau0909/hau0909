@@ -77,35 +77,6 @@
 
 <p align="left">_________________________________________________________________________________________</p>
 
-###
-
-<h3 align="left">🎵 What songs am I listening to</h3>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31cgivadarw37hin2iiuoxi6f6o4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cgivadarw37hin2iiuoxi6f6o4&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-
-<p align="left">_________________________________________________________________________________________</p>
-
-###
-
-<h3 align="left">📚 Philosophy & 📖 Inspirations</h3>
-
-###
-
-<br clear="both">
-
-<p align="center">“Fail fast, learn faster”</p>
-
-###
-
 <br clear="both">
 
 <p align="center"></p>
@@ -145,12 +116,6 @@
 <br clear="both">
 
 <p align="right">Albert Einstein</p>
-
-###
-
-<br clear="both">
-
-<p align="left">_________________________________________________________________________________________</p>
 
 ###
 
