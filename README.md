@@ -1,12 +1,14 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/38/fc/87/38fc87fc31ee83aadd3b2b05f0efc47d.gif"  />
+  <img  width="1000" src="https://i.pinimg.com/originals/38/fc/87/38fc87fc31ee83aadd3b2b05f0efc47d.gif"  />
 </div>
 
 ###
 
-<h1 align="center">What's good, everyone💨</h1>
+<h2 align="center">What's good, everyone</h2>
+
+<p align="center">Appreciate you're here</p>
 
 ###
 
